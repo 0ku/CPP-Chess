@@ -1,2 +1,2 @@
 # CPP-Chess
-This project was completely developed within the Replit IDE alongside two friends of mine. As a result, all the code found in this repository is the final version ported over.
+This is group project created with the intention of using OOP practices. All development stages/cycles of the program were done within the Replit IDE. As a result, all the code found in this repository is the final version ported over.
